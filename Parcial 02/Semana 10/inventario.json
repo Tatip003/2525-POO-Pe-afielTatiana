@@ -1,0 +1,20 @@
+{
+    "003": {
+        "id": "003",
+        "nombre": "CUCHARA",
+        "cantidad": 105,
+        "precio": 0.25
+    },
+    "002": {
+        "id": "002",
+        "nombre": "Olla",
+        "cantidad": 5,
+        "precio": 15.0
+    },
+    "001": {
+        "id": "001",
+        "nombre": "Vaso",
+        "cantidad": 25,
+        "precio": 0.75
+    }
+}
