@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "cuchara",
+      "cantidad": 15,
+      "precio": 0.5
+    },
+    {
+      "id": 1,
+      "nombre": "plato",
+      "cantidad": 5,
+      "precio": 1.0
+    }
+  ]
+}
