@@ -1,0 +1,20 @@
+{
+  "L5": {
+    "titulo": "Orgullo y Prejuicio",
+    "autor": "ane Austen",
+    "categoria": "Romance",
+    "isbn": "L5"
+  },
+  "L10": {
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "categoria": "Literatura infantil",
+    "isbn": "L10"
+  },
+  "L9": {
+    "titulo": "Crimen y Castigo",
+    "autor": "Fiódor Dostoyevski",
+    "categoria": "Novela",
+    "isbn": "L9"
+  }
+}
